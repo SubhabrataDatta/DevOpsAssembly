@@ -1,2 +1,0 @@
-echo "hello"
-echo "1st commit"
